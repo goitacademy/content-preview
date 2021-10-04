@@ -1,0 +1,25 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+.content {
+  margin-top: 24px;
+}
+
+.title {
+  text-align: center;
+}
+
+.linkList {
+  margin: 0;
+  padding: 0;
+  padding-left: 16px;
+}
